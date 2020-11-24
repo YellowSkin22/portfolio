@@ -1,0 +1,3 @@
+Datum,Tijd,Product,ISIN,Exchange,Aantal,,Koers,,Lokale waarde,,Waarde,Wisselkoers,,Kosten,,Totaal,Order Id
+02-11-2020,09:05,ISHARES AEX,IE00B0M62Y33,EAM,1,EUR,53.4400,EUR,-53.44,EUR,-53.44,,,,EUR,-53.44,ec09b1b0-0c0d-46af-a861-af6652d09b26
+26-10-2020,09:05,VANGUARD S&P500,IE00B3XXRP09,EAM,1,EUR,54.9100,EUR,-54.91,EUR,-54.91,,,,EUR,-54.91,40ea009b-f900-4012-845b-0c0ccdddd3cb
